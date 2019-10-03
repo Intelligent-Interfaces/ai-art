@@ -24,7 +24,6 @@ In addition to making the projects available on GitHub, we have created a [Googl
 
 <a href="url"><img src="/projects/google.classroom/google.classroom.snapshot.png" align="center" height="350" width="700" ></a>
 
----
 ## Contact Us
 <i>Erick Oduniyi ([eeoduniyi@gmail](eeoduniyi@gmail.com))</i>  
 <span style="font-size:.75em;"><b>Research Interest: </b>Cognitive Science, Computational Design,  Ecological Sciences, Industrial-Robotics</span>
