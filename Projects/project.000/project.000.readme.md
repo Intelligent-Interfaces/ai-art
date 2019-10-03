@@ -7,9 +7,6 @@
 
 ### cgen.dlang System Architecture
 <a href="url"><img src="https://storage.googleapis.com/root-proposal-1246/ai.art/Projects/project.000/EvoLang12-SPENCERDESIGN.png" align="center" height="400" width="700" ></a>
-
-<video src="https://storage.googleapis.com/root-proposal-1246/ai.art/Projects/project.000/evolang2020_submission_example.mp4" align = "center" width="400" height="400" controls preload></video>
-
 ---
 <!-- ## Project TODO:
   * Update Google Classroom
