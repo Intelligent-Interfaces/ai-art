@@ -22,6 +22,9 @@ At the moment, we are interested in building machines that draw (<b>drawing.mach
 ## Google Classroom
 In addition to making the projects available on GitHub, we have created a [Google Classroom](https://en.wikipedia.org/wiki/Google_Classroom) for individuals and communities to interact with our Jupyter and Colab notebooks, and other ai.art resources. If you'd like to join the ai.art classroom please email Erick Oduniyi (eeoduniyi@gmail.com)
 
+<a href="url"><img src="/projects/google.classroom/google.classroom.snapshot.png" align="center" height="350" width="700" ></a>
+
+---
 ## Contact Us
 <i>Erick Oduniyi ([eeoduniyi@gmail](eeoduniyi@gmail.com))</i>  
 <span style="font-size:.75em;"><b>Research Interest: </b>Cognitive Science, Computational Design,  Ecological Sciences, Industrial-Robotics</span>
