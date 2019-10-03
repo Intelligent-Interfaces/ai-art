@@ -5,10 +5,13 @@
 
 ![ai.art-abstract](https://storage.googleapis.com/root-proposal-1246/ai.art/Projects/project.000/project.000_paper-preview.png)
 
-![EvoLang12-SPENCERDESIGN](https://storage.googleapis.com/root-proposal-1246/ai.art/Projects/project.000/EvoLang12-SPENCERDESIGN.png)
+### cgen.dlang System Architecture
+<a href="url"><img src="https://storage.googleapis.com/root-proposal-1246/ai.art/Projects/project.000/EvoLang12-SPENCERDESIGN.png" align="center" height="400" width="700" ></a>
+
+<video src="https://storage.googleapis.com/root-proposal-1246/ai.art/Projects/project.000/evolang2020_submission_example.mp4" align = "center" width="400" height="400" controls preload></video>
 
 ---
-## Project TODO:
+<!-- ## Project TODO:
   * Update Google Classroom
   * Create Jupyter notebook for project.000
     * Things to develop:
@@ -22,4 +25,4 @@
       * <i>ML experiments</i>
         * GMM-HMM-ASR prototype
         * GAN prototype
-      * <i>ML research pipeline</i>
+      * <i>ML research pipeline</i> -->

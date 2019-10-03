@@ -1,6 +1,9 @@
 # ai.art
  <b>ai.art</b> is a repository for creating AI art and artist experiments. To do so, we utilize knowledge from <i>cognitive science</i>, <i>complexity science</i>, <i>computational geometry</i>, <i>information theory</i>, <i>probabilistic machine learning</i>, and various other cogntive-computational domains. Here, we use this repository to trace our foundations and document our future.
 
+---
+## Core Technology
+At the moment, we are interested in building machines that draw (<b>drawing.machines()</b>), machines that augment space and the built-environment (<b>augment.space()</b>), and machines that assist and improve health and wellness through art (<b>art.wellness()</b>). We believe in pursuing these technologies, we will further the discussion on innovation in the arts and sciences. In route, we work on various research projects related to the role of artificial intelligence and art.
 ![tutorial](https://storage.googleapis.com/root-proposal-1246/ai.art/Proposal/ai.art.core.technology.PNG)
 
 ---
@@ -17,7 +20,9 @@
 
 ---
 ## Google Classroom
-In addition to making the projects available on GitHub, we have created a Google Classroom for individuals and communities to interact with our Jupyter and Colab notebooks, and other ai.art resources.
+In addition to making the projects available on GitHub, we have created a [Google Classroom](https://en.wikipedia.org/wiki/Google_Classroom) for individuals and communities to interact with our Jupyter and Colab notebooks, and other ai.art resources. If you'd like to join the ai.art classroom please email Erick Oduniyi (eeoduniyi@gmail.com)
+
+<a href="url"><img src="/projects/google.classroom/google.classroom.snapshot.png" align="center" height="350" width="700" ></a>
 
 ---
 ## Contact Us
