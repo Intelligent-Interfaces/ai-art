@@ -1,0 +1,128 @@
+<b>Collab:</b>   
+DeepStyle
+
+<b>AdditionalNotes:</b>  
+Zoology Physics
+
+[Tutorial](https://colab.research.google.com/github/tensorflow/models/blob/master/research/nst_blogpost/4_Neural_Style_Transfer_with_Eager_Execution.ipynb )
+
+Drawing Machine for:
+
+Apply to art
+Apply to movement
+convolution neural network for facilities
+
+CVN -> Optogenetics ->
+light based movement
+
+
+machine learning inference
+Systems that can learn on the go
+
+Softrobotics
+
+Main issues:
+how is a robot going to do a fluid manner
+
+Main bottlenecks of Robotic 
+in a light weight fashion
+ 
+Systems that can
+
+Neural Style Transfer with tf.keras:
+
+What is tensorflow?
+What is keras?
+
+Figure out Neural Style
+Figure out Processing
+Combine style with processing
+
+Claude Monet,
+Picasso
+What do you actually about this stlye?
+
+How do people make filters
+3D 
+
+# Prominent art styles:
+
+# 
+
+Overleaf -> Atom -> Jupyter -> Collab -> Update ai.art github
+
+Take network model of images and inspect 
+
+GAN 
+Two networks that
+
+USE GAN as stlye transfer 
+
+feed in a new images to discremeter
+
+generator takes input
+
+gen: draw hamza in the stlye of Picasso
+
+dsic: is this an actual picasso painting or is this some bullshit
+
+How do you balance between it looking like hamza and not
+
+Extract style from style reference
+
+
+fooling the generative in a non productive way....picking up on pattern it's not really supposed to 
+
+Trying to produce an image of a new cat:
+
+while:
+solution space
+Gen(random noise (vectors), loss value)
+output(gen())
+
+is.element.ofDisc()
+
+
+Two networks:
+Gen(hamza)
+input:
+output(Hamza)
+
+while(valid):
+  disc(output(hamza))
+
+apply generator to discrimator
+
+gen(hamza)
+
+output: random hamza images
+gen(output):
+l_style
+Bunch of images of Picasso
+
+discrimator for the stlye and discremator for the content
+
+content
+image of hamza -> gen -> modified -> disc1_stlye -> stlye_loss -> does this look like 
+
+What do you care about?
+Content or style?
+
+Computational Complexity:
+
+Efficient Code:
+
+Siamese twins siamese network
+
+two objectivesL
+tell more ralisticimages
+maintain correlation with the orignal one
+
+when does the discrimeter order matter. 
+
+Practicing coding
+Software Engineering
+This weekend
+Saturday and Sunday
+convolution network problemsVgg
+predtrainedword.
