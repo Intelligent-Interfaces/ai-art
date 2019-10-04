@@ -7,6 +7,9 @@
 
 ### cgen.dlang System Architecture
 <a href="url"><img src="https://storage.googleapis.com/root-proposal-1246/ai.art/Projects/project.000/EvoLang12-SPENCERDESIGN.png" align="center" height="400" width="700" ></a>
+
+![google-classroom-cover](https://storage.googleapis.com/root-proposal-1246/ai.art/Projects/project.000/EvoLang12-SPENCERDESIGN.png)
+
 ---
 <!-- ## Project TODO:
   * Update Google Classroom
