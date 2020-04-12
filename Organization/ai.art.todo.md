@@ -34,3 +34,15 @@ In this document a running list of internal development and logistics notes are 
 
 ## Publicity
 * Finish inaugural Instagram post
+
+
+## Text message to Hamza
+Hey Hamza, just wanted to give you an update about the ai.art/deep style stuff
+
+cgen.dlang:
+
+Math, 3D Printing, and Robotics Teacher:
+
+NIAR-RAL and having access to the equipment for drawing machines:
+
+Deep Style:

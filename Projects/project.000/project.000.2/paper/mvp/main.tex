@@ -1,0 +1,172 @@
+\documentclass[8pt, a4paper, twocolumn]{article}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% - Package Begin
+
+%% Margins
+\usepackage[left=2cm, right=2cm, top=2cm, bottom=2cm]{geometry}
+
+%% Type & Text
+\usepackage[utf8]{inputenc}
+\renewcommand*\rmdefault{ppl}
+\usepackage{csquotes}
+
+%% Math & Equations
+% American Mathematical Society (AMS) plain Tex macros
+% The amsmath package is the principal package in the AMS-LaTeX distribution
+% The amsfonts package provides extended TeX fonts
+% The amssymb package provides various useful mathematical symbols
+% The amsthm package provides extended theorem environments
+\usepackage{amsmath}
+\DeclareMathSizes{7}{7}{3}{3}
+\usepackage{pifont}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{mathrsfs}
+\DeclareMathOperator*{\argmin}{arg\,min}
+\DeclareMathOperator*{\argmax}{arg\,max}
+\usepackage{dcolumn}% Align table columns on decimal point
+\usepackage{bm}% bold math
+\usepackage{algorithm}
+\usepackage{algpseudocode}
+\algnewcommand\textproc{\textsc}
+
+% New command to refer to equations as Eq.(1),Eq.(2),...
+\newcommand{\eqnref}[1]{Eq.(\ref{#1})}
+
+%% Color
+\usepackage[x11names]{xcolor}
+\usepackage{tcolorbox}
+
+%% Define main accent color
+\definecolor{dodgerblue}{rgb}{0.12, 0.56, 1.0}
+
+%% Define support accent colors
+\definecolor{support.grey}{rgb}{0.66, 0.66, 0.66}
+
+%% Define support accent colors
+\definecolor{support.pink}{rgb}{0.97, 0.51, 0.47}
+
+%% Sections
+% Section numbers with trailing dots.
+\usepackage{secdot}
+\usepackage{epstopdf}
+
+%% Also put a dot after the subsection number
+\sectiondot{subsection}
+
+%% Set a space between dot and heading text
+\sectionpunct{section}{. } % By default, \sectiondot places a \quad
+\sectionpunct{subsection}{. } % after the number
+\usepackage{titlesec}
+\titleformat{\section}
+    {\sffamily\bfseries\color{main.green}}{\thesection\quad}{\rule[-0.35cm]{1.5pt}{1cm}\quad}{\MakeUppercase}
+
+% Subsections
+\titleformat{\subsection}
+  {\normalfont\bfseries\itshape\color{main.green}}{\thesubsection}{1em}{}
+  % {\sffamily\bfseries\itshape\color{main.green}}{\thesubsection}{1em}{}
+
+% Subsubsections
+\titleformat{\subsubsection}
+  {\sffamily\itshape\color{main.green}}{\thesubsubsection}{1em}{}
+
+%% Figures & Graphics
+\usepackage{subcaption}
+\usepackage[justification=left]{caption}
+\usepackage[skip=2pt,font=scriptsize]{caption}
+\renewcommand{\figurename}{\textbf{Fig.}}
+\usepackage[labelsep=endash]{caption}
+\usepackage{graphicx}
+\usepackage{siunitx}
+\usepackage{float}
+
+%% List
+\usepackage{listings}
+\usepackage{enumitem}
+
+%% Tables
+\usepackage{pgfplotstable}
+% global settings
+\pgfplotstableset{
+    every head row/.style={
+    before row=\toprule,after row=\midrule},
+    every last row/.style={
+    after row=\bottomrule},
+    col sep = &,
+    row sep=\\,
+    string type,
+}
+
+%% Title
+\makeatletter
+\renewcommand{\maketitle}{\bgroup\setlength{\parindent}{0pt}
+\vspace{2.5cm}
+\begin{flushleft}
+  \textbf{\@title}
+
+  \@author
+\end{flushleft}\egroup
+}
+\makeatother
+\renewcommand\abstractname{\normalfont\textsc{
+    \begin{flushleft}
+        \textbf{\textcolor{support.grey}{ABSTRACT}}
+    \end{flushleft}
+    }
+    \vspace{-4mm}
+}
+
+%% Footnotes
+\usepackage[hang,flushmargin]{footmisc}
+
+%% ai.art -- Header
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\lhead{\normalfont\textcolor{main.green}{\textbf{metaballin: From Graphs to Studio Spaces}} \textcolor{support.grey}{\textit{}}}
+\rhead{\textcolor{main.green}{\textbf{\thepage}}}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% - Package End
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% - Title Begin
+
+% ai.art -- Title
+\title{\normalfont\huge{\textcolor{main.green}{\textbf{metaballin: From Graphs to Studio Spaces}}}\\
+\vspace{.25cm}
+\Large{\textit{Graph Theory, Evolutionary Algorithms, \& Parametric Design}}\vspace{.20cm}}
+
+% ai.art -- Author Information
+\author{
+    \normalsize{Erick O. Oduniyi (\textbf{eeoduniyi@gmail.com})}\\
+}
+
+% Suppress date information
+\date{}
+
+% Supress page numbering at the bottom
+\fancyfoot[C]{}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% - Title End
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% - Document Begin
+\begin{document}
+
+% ai.art -- Abstract
+\twocolumn[
+  \begin{@twocolumnfalse}
+  \maketitle
+  	% \input{00_abstract}
+  \end{@twocolumnfalse}
+]
+
+% ai.art -- Introduction
+% \input{01_introduction.tex}¸
+
+% ai.art -- Body
+% \input{02_sentimentanalysis.tex}
+
+% ai.art -- Conclusion
+% \input{06_conclusion.tex}
+
+% ai.art -- References
+% \bibliographystyle{unsrt}
+% \bibliography{references}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% - Document End
+\end{document}
