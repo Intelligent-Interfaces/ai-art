@@ -7,16 +7,27 @@ Keywords: Space, Illusion, Memory, Landmarks, Pathway, Language, Compression, Me
 Keywords: Aesthetically aligned, Competition circuit, Sociological issues, Spatial voting, Condensed cities, Playful, Safety, Recycling Space, Geodesign, Cultural Sensors. Transcription factors, Metabolic,
 
 ## Low-Level (Concrete)
-Keywords: Metbaballs, Exhibits of different work places, Generating studios, Space fitness,
+Keywords: Metaballs, Exhibits of different work places, Generating studios, Space fitness,
 
 ### Function Sketches
 ```{R}
-studiosplitter <- function(size, cleanliness, geography, space-grammar){
-  return{split.studio}
+
+space-grammar <- c(size, cleanliness, geography, ...)
+
+# A function splitting studio
+studiosplitter <- function(pref, space-grammar){
+  .
+  .
+  .
+  return{reconfigure.space(space-grammar)}
 }
 
-reconfigure.space <- function(size, ){
-
+# A function for reconfiguring space
+reconfigure.space <- function(space-grammar){
+  .
+  .
+  .
+  return{reshaped.space}
 }
 ```
 
