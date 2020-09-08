@@ -8,12 +8,14 @@ At the moment, we are interested in building machines that draw (`drawing.machin
 
 ---
 ## Current Projects
-<b>[Project 000:](/Projects/project.000/project.000.readme.md) </b><i>[cgen.dlang: A Community Generated Design Language](https://cgen-dlang.github.io/cgen-dlang/)</i>  
+<b>[Project 000:](/Projects/project.000/project.000.readme.md) 
+ 
+</b><i>[cgen.dlang: A Community Generated Design Language](https://cgen-dlang.github.io/cgen-dlang/)</i>  
 <b>Team:</b> <i>E. Oduniyi, H. Chaudhry</i>  
 <s><b>Abstract Submitted:</b></s>
 <s><i>2020 Evolution of Language International Conference</i></s>  
 <b>Paper Accepted:</b>
-<i>AVI:Data4Good Workshop</i>
+<i>[AVI: Data4Good Workshop](https://sites.google.com/view/data4good/program)</i>
 ![abstract-cover](https://storage.googleapis.com/root-proposal-1246/ai.art/Projects/project.000/project.000_paper-cover.png)
 
 <b>[Project 001:](/Projects/project.001/project.001.readme.md)</b> <i>Drawing Machines and Generative Adversarial Networks</i>  
@@ -28,7 +30,7 @@ In addition to making the projects available on GitHub, we have created a [Googl
 
 ## Contact Us
 <i>Erick Oduniyi ([eeoduniyi@gmail](eeoduniyi@gmail.com))</i>  
-<span style="font-size:.75em;"><b>Research Interest: </b>Cognitive Science, Computational Design,  Ecological Sciences, Industrial-Robotics</span>
+<span style="font-size:.75em;"><b>Research Interest: </b>Cognitive Science, Computational Design, Ecological Sciences, Industrial-Robotics</span>
 
 <i>Hamza Chuadhry (hamzatchaudhry@gmail.com)</i>  
 <span style="font-size:.75em;"><b>Research Interest: </b>Cognitive Science, Computational Neuroscience, Evolutionary Theory, Soft-Robotics</span>
