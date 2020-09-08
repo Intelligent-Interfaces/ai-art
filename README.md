@@ -12,7 +12,7 @@ At the moment, we are interested in building machines that draw (`drawing.machin
 <b>Team:</b> <i>E. Oduniyi, H. Chaudhry</i>  
 <s><b>Abstract Submitted:</b></s>
 <s><i>2020 Evolution of Language International Conference</i></s>  
-<b>Paper Accepeted:</b>
+<b>Paper Accepted:</b>
 <i>AVI:Data4Good Workshop</i>
 ![abstract-cover](https://storage.googleapis.com/root-proposal-1246/ai.art/Projects/project.000/project.000_paper-cover.png)
 
