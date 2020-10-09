@@ -1,5 +1,5 @@
 # <b>project 001:</b> <i>Drawing Machines and Generative Adversarial Networks</i>
-<b>Team:</b> Hamza T. Chuadhry, Erick O. Oduniyi  
+<b>Team:</b> Hamza T. Chaudhry, Erick O. Oduniyi  
 <b>Concepts:</b> Neural Style Transfer, Generative Adversarial Networks, Drawing Machines  
 <b>Conference Submission:</b> TBD
 
