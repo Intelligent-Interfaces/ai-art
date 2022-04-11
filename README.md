@@ -1,5 +1,5 @@
 # ai.art
- <b>ai.art</b> is a repository for creating AI art and artist experiments. To do so, we utilize knowledge from <i>cognitive science</i>, <i>complexity science</i>, <i>computational geometry</i>, <i>information theory</i>, <i>probabilistic machine learning</i>, and various other cogntive-computational domains. Here, we use this repository to trace our foundations and document our future.
+ <b>ai.art</b> is a repository for creating AI art and artist experiments. To do so, we utilize knowledge from <i>cognitive science</i>, <i>complexity science</i>, <i>computational geometry</i>, <i>information theory</i>, <i>probabilistic machine learning</i>, and various other cognitive-computational domains. Here, we use this repository to trace our foundations and document our future.
 
 ---
 ## Core Technology
