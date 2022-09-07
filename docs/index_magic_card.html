@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html>
+
+<!-- Head of operations ;) -->
+<head>
+    <title>🦾 Button — A Gift of 🦾</title>
+    <meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+    <meta name="viewport" content="initial-scale=.7, maximum-scale=.7">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Space+Grotesk&display=swap">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
+        integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+
+    <style>
+        body {
+            background: #ecbca2;
+            /* background:black; */
+            font-family: var(--vscode-markdown-font-family, -apple-system, BlinkMacSystemFont, "Segoe WPC", "Segoe UI", "Ubuntu", "Droid Sans", sans-serif);
+            font-family: 'Space Grotesk', sans-serif;
+            word-wrap: break-word;
+            /* background-image: url("img/grenda_img_synth_1.png"), url("img/sunflower.gif"); */
+            background-blend-mode: lighten;
+            background-size: cover;
+            
+        }
+
+        .enzack_button_1 {
+            
+            padding: 100px 100px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 12px;
+            margin: 20px 10px;
+            cursor: pointer;
+            border-radius: 420px;
+            background: linear-gradient(145deg, #fdc9ad, #d4a992);
+            box-shadow:  37px 37px 73px #c69e88,
+                        -37px -37px 73px #ffdabc;
+        }
+        
+        .div_center {
+            display: flex;
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            /* bring your own prefixes */
+            transform: translate(-50%, -50%);
+        }
+
+        .ul_buttons {
+            list-style-type: none;
+            padding-left: 0;
+        }
+
+        .li_buttons {
+            padding: 20px;
+        }
+
+        .white-txt {
+            color: white;
+        }
+
+        .sm-icon-footer {
+            color: white;
+            text-decoration: none;
+        }
+
+        .bt-txt {
+            color: black;
+        }
+
+        /* From uiverse.io by @alexruix */
+        .card {
+        --background: linear-gradient(to left, #f7ba2b 0%, #ea5358 100%);
+        width: 300px;
+        height: 350px;
+        padding: 5px;
+        border-radius: 1rem;
+        overflow: visible;
+        background: #f7ba2b;
+        background: var(--background);
+        position: relative;
+        z-index: 1;
+        /* background: linear-gradient(145deg, #fdc9ad, #d4a992); */
+            box-shadow:  37px 37px 73px #c69e88,
+                        -37px -37px 73px #ffdabc;
+        }
+
+        .card::after {
+        position: absolute;
+        content: "";
+        top: 30px;
+        left: 0;
+        right: 0;
+        z-index: -1;
+        height: 100%;
+        width: 100%;
+        transform: scale(0.8);
+        filter: blur(25px);
+        background: #f7ba2b;
+        background: var(--background);
+        transition: opacity .5s;
+        }
+
+        .card-info {
+        --color: #181818;
+        background: var(--color);
+        color: var(--color);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+        height: 100%;
+        overflow: visible;
+        border-radius: .7rem;
+        }
+
+        .card .title {
+        font-weight: bold;
+        letter-spacing: .1em;
+        }
+
+        /*Hover*/
+        .card:hover::after {
+        opacity: 0;
+        }
+
+        .card:hover .card-info {
+        color: #f7ba2b;
+        transition: color 1s;
+        }
+    </style>
+</head>
+
+<!-- My body different -->
+<body>
+    
+    <!-- Buttons -->
+    <div class="div_center"> 
+        <div class="card">
+            <div class="card-info">
+                <p class="title">🦾enzack</p>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
