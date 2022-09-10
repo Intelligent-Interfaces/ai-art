@@ -9,4 +9,4 @@ Examples of generated art from [DALL·E 2](https://openai.com/dall-e-2/):
 5. ![](img/dalle2/comp/examples_of_policy_in_the_style_of_Takashi_Murakami.jpg)
 6. ![](img/dalle2/comp/examples_of_law_in_the_style_of_Takashi_Murakami.jpg)
 7. ![](img/dalle2/comp/examples_of_rules_in_the_style_of_Takashi_Murakami.jpg)
-8. ![](img/dalle2/comp/Rules_in_the_style_of_Takashi_Murakami.jpg)
+8. ![](img/dalle2/comp/rules_in_the_style_of_Takashi_Murakami.jpg)
