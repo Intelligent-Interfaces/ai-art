@@ -15,6 +15,7 @@ Examples of generated art from [Stable Diffusion](https://huggingface.co/CompVis
    ![](img/sd/examples_of_economy_in_the_style_of_Takashi_Murakami_SD.png)
 
 5. **Prompt:** "Examples of money in the style of Takashi Murakami"
+    ![](img/sd/sd_gradio_example.png)
     ![](img/sd/examples_of_money_in_the_style_of_Takashi_Murakami_SD.png)
 
 6. **Prompt:** "Examples of policy in the style of Takashi Murakami"
@@ -26,5 +27,5 @@ Examples of generated art from [Stable Diffusion](https://huggingface.co/CompVis
 8. **Prompt:** "Examples of rules in the style of Takashi Murakami" 
    ![](img/sd/examples_of_rules_in_the_style_of_Takashi_Murakami_SD.png)
 
-9. **Prompt:** "Rules in the style of Takashi Murakami"  
+9.  **Prompt:** "Rules in the style of Takashi Murakami"  
     ![](img/sd/rules_in_the_style_of_Takashi_Murakami_SD.png)
